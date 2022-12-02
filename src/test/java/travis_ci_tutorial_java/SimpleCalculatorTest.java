@@ -16,7 +16,7 @@ public class SimpleCalculatorTest
 	public void testSub() 
 	{
 		SimpleCalculator calc = new SimpleCalculator();
-		assertEquals(calc.add(1, 1),0);
+		assertEquals(calc.add(1, 1),1);
 	}
 	public void testMultiply() 
 	{
